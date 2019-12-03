@@ -1,2 +1,2 @@
 # master-item-new
-silahkan klik link download pada github
+silahkan klik download pada pojok kanan berwarna hijau
